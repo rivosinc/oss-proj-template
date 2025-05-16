@@ -1,5 +1,5 @@
 <!--
-SPDX-FileCopyrightText: 2023 Rivos Inc.
+SPDX-FileCopyrightText: (c) 2025 Rivos Inc.
 
 SPDX-License-Identifier: Apache-2.0
 -->
